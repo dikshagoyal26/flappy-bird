@@ -101,7 +101,7 @@ function draw() {
 }
 function moveUp() {
   if (flag2 == 0) {
-    bY -= 25;
+    bY -= 50;
     fly.play();
     flag = 1;
     //draw();
